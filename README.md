@@ -16,6 +16,7 @@ The telco customer churn dataset contains customers information from ABC Communi
 ## Dataset structure 
 - Number of revords(rows):7,043
 - number of columns:21
+
 Each row represents each customer while each column represents a specific customer attribute such as demographics, subscribed service,payment informations and churn status.
 ## Data types 
 The dataset contains both categorical and numerical variables 
@@ -42,7 +43,8 @@ The dataset contains both categorical and numerical variables
 - SeniorCitizen
 - MonthlyCharge
 - TotalCharge
-After inspect, all columns were found to have appropriate type for analysis.
+
+After inspection , all columns were found to have appropriate type for analysis.
 ## Missing Values 
 The dataset was inspected using Excel's GO TO SPECIAL Feature. No missing values were found except TotalCharges column, which contained 11 blank cells.futher investigations showed that the affected customer had a tenure of 0 months.since the total charge column represents the cumulative charges paid by customers since joining the company. customers with zero months of tenure are yet to accumulate TotalCharge. therefore blank values are consistent with the business context and not a data entery error.
 ## Dublicate records 
