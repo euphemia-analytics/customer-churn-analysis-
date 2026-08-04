@@ -20,7 +20,7 @@ The telco customer churn dataset contains customers information from ABC Communi
 Each row represents each customer while each column represents a specific customer attribute such as demographics, subscribed service,payment informations and churn status.
 ## Data types 
 The dataset contains both categorical and numerical variables 
-# categorical variables 
+## categorical variables 
 - CustomerID
 - Gender
 - Partner
