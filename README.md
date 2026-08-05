@@ -48,7 +48,9 @@ After inspection , all columns were found to have appropriate type for analysis.
 ## Missing Values 
 The dataset was inspected using Excel's GO TO SPECIAL Feature. No missing values were found except TotalCharges column, which contained 11 blank cells.futher investigations showed that the affected customer had a tenure of 0 months.since the total charge column represents the cumulative charges paid by customers since joining the company. customers with zero months of tenure are yet to accumulate TotalCharge. therefore blank values are consistent with the business context and not a data entery error.
 ## Dublicate records 
-The dataset was checked for duplicate records using power query. No duplicate were found, each customer customer record is unique and can be identified using the CustomerID Column
+The dataset was checked for duplicate records using power query. No duplicate were found, each customer customer record is unique and can be identified using the CustomerID Column.
+## Feature Engineering 
+A new variable named Charge category was created by grouping the monthly charge into three categories (LOW,MEDIUM,HIGH) to enable easier comparison of churn rate  across different pricing levels 
 ## Tools Used 
 - Microsoft excel
 - power query 
