@@ -1,4 +1,4 @@
-markdown 
+no markdown 
 # Customer churn Analysis
 ## Project Overview 
 This project analyzes customer churn for ABC Communication Ltd,a telecommunications company. The objective is to identify customers behavior, usage patterns and service related factors that derives customer churn. The analysis provides data-driven insights that can help the business increase customer retention/loyalty,curb customer churn and support informed business decision making.
@@ -78,4 +78,5 @@ A new variable named Charge category was created by grouping the monthly charge 
 - Data visualization 
 - Data storytelling 
 - Business Recommendations 
+----/
 *this project is currently in progress as my data analytics internship.*
