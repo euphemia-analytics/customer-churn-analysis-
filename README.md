@@ -58,5 +58,24 @@ A new variable named Charge category was created by grouping the monthly charge 
 - pivot charts 
 - Data visualization 
 - Dashboard 
------/
+## Key Business insights 
+- Customers on month-to-month contacts recorded the highest churn rate.
+- Fiber optic customer exprienced relatively higher churn than DSL and customers with no internet service.
+- Customers paying through electronic check are more likely to churn than customers usung automatic payment methods.
+- Customers enrolled in paperless billing also showed higher churn rate.
+- New customers (0-12 months)had the highest churn rate, while long term customers are more likely to stay.
+- Customers without partners and dependents are more likely to churn.
+- Gender and phone service showed little to no influence on churn rate.
+## Business Recommendations 
+- Encourage month-to-month customers to migrate to long-term contracts 
+- Investigate the experience of fiber optic customers.
+- Improve onboarding and engagement during customer's first year.
+- Develop targeted retention campaign for high risk customers.
+## Skills demonstrated 
+- Data cleaning 
+- Exploratory Data Analysis 
+- KPI Development 
+- Data visualization 
+- Data storytelling 
+- Business Recommendations 
 *this project is currently in progress as my data analytics internship.*
