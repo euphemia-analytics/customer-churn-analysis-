@@ -71,6 +71,7 @@ A new variable named Charge category was created by grouping the monthly charge 
 - Investigate the experience of fiber optic customers.
 - Improve onboarding and engagement during customer's first year.
 - Develop targeted retention campaign for high risk customers.
+- 
 ## Skills demonstrated 
 - Data cleaning 
 - Exploratory Data Analysis 
@@ -78,5 +79,3 @@ A new variable named Charge category was created by grouping the monthly charge 
 - Data visualization 
 - Data storytelling 
 - Business Recommendations 
-----/
-*this project is currently in progress as my data analytics internship.*
